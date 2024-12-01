@@ -1,6 +1,6 @@
 <?php 
 
-class Enclos extends Database {
+class Enclosure extends Database {
     private $id;
     private $name;
     private $description;
