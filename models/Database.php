@@ -1,4 +1,8 @@
 <?php
+
+namespace Models;
+use \PDO as PDO;
+
 class Database
 {
 	private static $instance = null;
